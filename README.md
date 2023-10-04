@@ -1,4 +1,4 @@
-# buy-sell-marketplace - Classified Ads Platform (jiji.ng clone)
+# buy-sell-marketplace - Classified Ads Platform (FarmDOT)
 All-in-One Marketplace where Famers can buy their products or list different products for sale. Includes features like Notifications, Chat, User follow, Rate user and Add favourites.
 
 ## User Dashboard
